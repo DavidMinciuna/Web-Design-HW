@@ -1,4 +1,4 @@
-# Web-Design-HW1
+# Web-Design-HW
 #  Personal CV Website
 
 ##  Descriere
