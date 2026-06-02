@@ -37,19 +37,19 @@ Website-ul este structurat în mai multe pagini interconectate și oferă o expe
 ## Structura proiectului
 
 
-Accessibility / Lighthouse
+## Accessibility / Lighthouse
 
-| Page                        | Lighthouse Accessibility Score |
-| --------------------------- | -----------------------------: |
-| Home page (`index.html`)    |                            100 |
-| CV (`CV.html`)              |                            100 |
-| Business Card (`card.html`) |                             99 |
-| Projects (`Proiecte.html`)  |                            100 |
-| Overview (`overview.html`)  |                            100 |
-| Contact (`contact.html`)    |                            100 |
-| ChatBot (`chatbot.html`)    |                            100 |
+Target Lighthouse accessibility score ≥95.
 
-
+| Page | Lighthouse Accessibility Score |
+|---|---:|
+| Home page (`index.html`) | 100 |
+| CV + PORTOFOLIO (`CV.html`) | 100 |
+| Business Card (`card.html`) | 99 |
+| Projects (`Proiecte.html`) | 100 |
+| Overview (`overview.html`) | 100 |
+| Contact (`contact.html`) | 100 |
+| ChatBot (`chatbot.html`) | 100 |
 
 
 Proiectul conține următoarele fișiere:
