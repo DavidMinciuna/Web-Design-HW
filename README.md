@@ -35,7 +35,18 @@ Website-ul este structurat în mai multe pagini interconectate și oferă o expe
 ---
 
 ## Structura proiectului
+Accessibility / Lighthouse
 
+Target Lighthouse accessibility score ≥95.
+
+Rezultate obținute:
+index.html / Home page  -> 100
+CV.html                 -> 100
+card.html               -> 99
+Proiecte.html           -> 100
+overview.html           -> 100
+contact.html            -> 100
+chatbot.html            -> 100
 Proiectul conține următoarele fișiere:
 
 ```text
