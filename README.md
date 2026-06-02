@@ -42,6 +42,7 @@ Proiectul conține următoarele fișiere:
 index.html          -> Pagina principală a website-ului
 CV.html             -> Pagina de CV cu informații personale și abilități
 Proiecte.html       -> Pagina dedicată proiectelor personale
+Portofolio.html     -> Pagina de portofoliu interactiv, cu tabel pentru proiecte
 contact.html        -> Pagina de contact cu formular
 overview.html       -> Pagina de prezentare generală a profilului, skill-urilor și proiectelor
 
@@ -52,9 +53,19 @@ chatbot.html        -> Pagina care conține interfața chatbot-ului
 chatbot.css         -> Stilizarea paginii ChatBot
 chatbot.js          -> Logica chatbot-ului și întrebările interactive
 
+Portofolio.js       -> Script JavaScript pentru pagina de portofoliu și funcționalitățile interactive
+projects.js         -> Script JavaScript pentru gestionarea și afișarea proiectelor
+
 figma-auth.css      -> CSS exportat/inspirat din designul realizat în Figma pentru pagina de autentificare
 
 style.css           -> Fișierul principal de stilizare pentru website
 
-da.jpg              -> Imagine folosită ca poză de profil în pagina Business Card
+da.webp             -> Imagine folosită ca poză de profil în pagina Business Card
+Eu.webp             -> Imagine personală folosită în website
 Frame 1.png         -> Imagine/export din Figma folosit ca referință vizuală pentru design
+
+ConsolaJocuri.webp  -> Imagine folosită pentru proiectul Console Games / Consolă Jocuri
+Chatbot.webp        -> Imagine folosită pentru proiectul ChatBot
+Good.webp           -> Imagine decorativă folosită în secțiunea de proiecte sau portofoliu
+Tony.webp           -> Imagine folosită ca element vizual în website
+Asta.webp           -> Imagine folosită ca element vizual/decorativ în portofoliu
